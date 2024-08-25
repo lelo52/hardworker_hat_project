@@ -1,0 +1,5 @@
+train: C:/hardworker_hat_project/dataset/train/images
+val: C:/hardworker_hat_project/dataset/test/images
+
+nc: 3
+names: ['head', 'helmet', 'person']
